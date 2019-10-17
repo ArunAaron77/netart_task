@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.background {
+	background-color:#F5CBA7 ;
+}
+.hr {
+   color: 	#800000; 
+   border-color: 	#800000;
+}
+.footer{
+	background: 	#800000;
+    padding-bottom: 10px;
+    padding-right: ;
+	color:white;
+	margin-top:30px;
+    width:100%;
+	
+} 
+.font {
+	font-size:100px;
+}
+.fontsdown {
+	margin-top: 35px;
+}
+.fontsize {
+	font-size: 30px;
+	text-decoration: none;
+}
